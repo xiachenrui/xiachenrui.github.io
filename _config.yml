@@ -247,7 +247,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - deperacted/
+  - depercated/
 keep_files:
   - CNAME
   - .nojekyll
