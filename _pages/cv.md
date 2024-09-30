@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-description: This is my CV
+description: CV for Chen-Rui Xia
 toc:
-  sidebar: left
+  sidebar: top
 ---
