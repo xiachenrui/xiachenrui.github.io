@@ -39,6 +39,11 @@
 
   "awards": [
     {
+      "title": "Novo Gene Scholarship",
+      "date": "2024-12-01",
+      "awarder": "Novo "
+    },
+    {
       "title": "President's scholarship of Peking University",
       "date": "2024-06-01",
       "awarder": "Peking University"

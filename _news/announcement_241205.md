@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-DECIPHER preprint is now available on bioRxiv now. [[Link](https://www.biorxiv.org/content/10.1101/2024.11.29.626126v1)][[Code](https://github.com/gao-lab/DECIPHER)]
+DECIPHER preprint is now available on *bioRxiv* now. [[Link](https://www.biorxiv.org/content/10.1101/2024.11.29.626126v1)] [[Code](https://github.com/gao-lab/DECIPHER)]

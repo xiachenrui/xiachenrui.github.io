@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-CLUE is accepted to NeurIPS 2022 as Oral presentation
+CLUE is accepted by *NeurIPS(2022)* as Oral presentation (Top 5%) [[Link](https://openreview.net/forum?id=Tfb73TeKnJ-)] [[Code](https://github.com/gao-lab/GLUE)].
